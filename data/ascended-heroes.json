@@ -1,0 +1,17 @@
+{
+  "set": "Ascended Heroes",
+  "slug": "ascended-heroes",
+  "setReleased": "2026-02-20",
+  "samplePacks": 2000,
+  "sampleSource": "TCGplayer Authentication Center",
+  "sourceUrl": "https://www.tcgplayer.com/content/article/Pok%C3%A9mon-TCG-Ascended-Heroes-Pull-Rates/60143d94-88a7-42ce-8e73-babd7b3fabd6/",
+  "tiers": [
+    { "tier": "Double Rare", "ratePct": 20.37, "ci95Pct": 1.70, "cardsInTier": 39, "alternateRatePct": null },
+    { "tier": "Ultra Rare", "ratePct": 4.81, "ci95Pct": 0.90, "cardsInTier": 14, "alternateRatePct": 20.77 },
+    { "tier": "Mega Attack Rare", "ratePct": 3.47, "ci95Pct": 0.77, "cardsInTier": 7, "alternateRatePct": null },
+    { "tier": "Illustration Rare", "ratePct": 11.25, "ci95Pct": 1.33, "cardsInTier": 33, "alternateRatePct": null },
+    { "tier": "Special Illustration Rare", "ratePct": 1.44, "ci95Pct": 0.50, "cardsInTier": 22, "alternateRatePct": null },
+    { "tier": "Mega Hyper Rare", "ratePct": 0.19, "ci95Pct": 0.18, "cardsInTier": 2, "alternateRatePct": null }
+  ],
+  "notes": "Ultra Rare appears as 4.81% in the main table and 20.77% in a detailed section; the main-table value is used and the detailed figure kept as alternateRatePct. Mega Hyper Rare is drawn as an independent per-pack event, not a slot rate. God Packs: described in the source, none in the recorded sample, rate null."
+}
