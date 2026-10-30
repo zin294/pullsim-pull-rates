@@ -1,0 +1,18 @@
+{
+  "set": "Prismatic Evolutions",
+  "slug": "prismatic-evolutions",
+  "setReleased": "2025-01-17",
+  "samplePacks": 1200,
+  "sampleSource": "TCGplayer Authentication Center",
+  "sourceUrl": "https://www.tcgplayer.com/content/article/Pok%C3%A9mon-TCG-Prismatic-Evolutions-Pull-Rates/d94889ea-f76a-4a13-b74d-5b0b071220a7/",
+  "tiers": [
+    { "tier": "Poke Ball Foil", "ratePct": 33.10, "ci95Pct": 2.60, "cardsInTier": null, "alternateRatePct": null },
+    { "tier": "Double Rare", "ratePct": 16.51, "ci95Pct": 2.05, "cardsInTier": 25, "alternateRatePct": 16.94 },
+    { "tier": "Ultra Rare", "ratePct": 7.46, "ci95Pct": 1.45, "cardsInTier": null, "alternateRatePct": null },
+    { "tier": "Master Ball Foil", "ratePct": 4.92, "ci95Pct": 1.19, "cardsInTier": null, "alternateRatePct": null },
+    { "tier": "ACE SPEC Rare", "ratePct": 4.68, "ci95Pct": 1.17, "cardsInTier": null, "alternateRatePct": null },
+    { "tier": "Special Illustration Rare", "ratePct": 2.22, "ci95Pct": 0.81, "cardsInTier": null, "alternateRatePct": null },
+    { "tier": "Hyper Rare", "ratePct": 0.56, "ci95Pct": 0.41, "cardsInTier": null, "alternateRatePct": null }
+  ],
+  "notes": "No Illustration Rare tier exists in this set. Double Rare is reported as both 16.51% +/-2.05% and 16.94% +/-0.79%; the main-table value is used and the alternate figure kept as alternateRatePct. The source also gives a Specific Double Rare figure of 0.94%, which is irreconcilable with 16.51% over 25 cards, so the single-card estimate is derived from the tier rate instead."
+}
