@@ -1,0 +1,16 @@
+{
+  "set": "Phantasmal Flames",
+  "slug": "phantasmal-flames",
+  "setReleased": "2025-11-14",
+  "samplePacks": 5000,
+  "sampleSource": "TCGplayer Authentication Center",
+  "sourceUrl": "https://www.tcgplayer.com/content/article/Pok%C3%A9mon-TCG-Phantasmal-Flames-Pull-Rates/9abae60d-b7fb-448f-874e-176f78d6a6ca/",
+  "tiers": [
+    { "tier": "Double Rare", "ratePct": 20.77, "ci95Pct": 1.12, "cardsInTier": null, "alternateRatePct": null },
+    { "tier": "Illustration Rare", "ratePct": 10.97, "ci95Pct": 0.86, "cardsInTier": null, "alternateRatePct": null },
+    { "tier": "Ultra Rare", "ratePct": 8.06, "ci95Pct": 0.75, "cardsInTier": null, "alternateRatePct": null },
+    { "tier": "Special Illustration Rare", "ratePct": 1.25, "ci95Pct": 0.31, "cardsInTier": null, "alternateRatePct": null },
+    { "tier": "Mega Hyper Rare", "ratePct": 0.08, "ci95Pct": 0.08, "cardsInTier": null, "alternateRatePct": null }
+  ],
+  "notes": "Largest sample of the three sets at 5,000 packs, which is why its rarest tier carries the tightest interval."
+}
