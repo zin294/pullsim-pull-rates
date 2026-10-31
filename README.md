@@ -80,3 +80,23 @@ Unofficial fan project. Not affiliated with, endorsed by, or sponsored by Ninten
 Creatures Inc., GAME FREAK, or The Pokemon Company. Card names and artwork belong to their
 respective owners; card records come from TCGdex, which defines which cards exist in a
 rarity but never sets that rarity's rate.
+
+## Citing this dataset
+
+These pull rates were compiled from the pack-opening samples published by the TCGplayer
+Authentication Center. Each set lists its counted sample size — Ascended Heroes 2,000 packs,
+Prismatic Evolutions 1,200 packs, and Phantasmal Flames 5,000 packs — together with the
+published 95% confidence interval. Where a source report gives two different figures for the
+same rarity, both are kept without choosing between them; sets with no published English rate
+are marked pending rather than estimated.
+
+```
+Repository: pullsim-pull-rates
+URL: https://github.com/zin294/pullsim-pull-rates
+数据以各系列 JSON 为准。
+```
+
+- [data/ascended-heroes.json](https://github.com/zin294/pullsim-pull-rates/blob/main/data/ascended-heroes.json) — Ascended Heroes, 2,000 packs
+- [data/prismatic-evolutions.json](https://github.com/zin294/pullsim-pull-rates/blob/main/data/prismatic-evolutions.json) — Prismatic Evolutions, 1,200 packs
+- [data/phantasmal-flames.json](https://github.com/zin294/pullsim-pull-rates/blob/main/data/phantasmal-flames.json) — Phantasmal Flames, 5,000 packs
+- [data/delta-reign.json](https://github.com/zin294/pullsim-pull-rates/blob/main/data/delta-reign.json) — Delta Reign, pending (no published English sample)
